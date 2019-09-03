@@ -8,12 +8,12 @@ public class Completenomial
 {
     public static void main( String[] args ) {
         //variable declarations
-        
-        
+        double a = 1;
+        double p;
         //Polynomial computation
-        
+        p = 2*a*a -7*a + 3;
         
         //Output the result
-        System.out.println("");
+        System.out.println("p("+ a +") = " + p);
     }
 }
