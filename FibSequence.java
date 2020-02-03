@@ -9,7 +9,7 @@ public static void main(String args[]){
  */
 }
 
-public static long sequence(int j){
+public static long sequence(int term){
 /*build the method here from the recursive formula.
  *what needs to be given? why do you think the return type is long rather than int?
  */
